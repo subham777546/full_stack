@@ -4,9 +4,18 @@
 import React from 'react';
 
 const Dashboard = () => {
+  const [Username], srtUsername]=useState('');
+  const [Username], srtUsername]=useState('');
+  const [Username], srtUsername]=useState('');
+  const [Username], srtUsername]=useState('');
+  const [Username], srtUsername]=useState('');
+  const [Username], srtUsername]=useState('');
+
   return (
     <div style={{ width: '300px', padding: '20px', border: 'black' }}>
-   
+   <form action="">
+    <input type
+   </form>
 
     <input type="text" placeholder="Username"/>
       <input type="email" placeholder="email"/>
